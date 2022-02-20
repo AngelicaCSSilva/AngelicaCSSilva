@@ -1,6 +1,8 @@
 # 💫About Me :
 [🔭] Currently studying Web Development at Trybe. 
+
 [🌱] Learning React (01/23/2022). 
+
 [🎮] My hobbies include playing games, watching series and learning new languages.
 
 
