@@ -1,10 +1,7 @@
 # 💫About Me :
-[🔭] Currently studying Web Development at Trybe. <br/>
-[🌱] Learning React (01/23/2022). <br/>
-
-
-
-
+[🔭] Currently studying Web Development (Full Stack) at Trybe. <br/>
+[🌟] On April 7, 2022 - Finished Front-End Web Development Course at Trybe. <br/>
+[🌱] Started Back-End Course at Trybe. <br/>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelicacssilva) 
