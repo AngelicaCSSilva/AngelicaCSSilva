@@ -14,7 +14,7 @@ I graduated in Law, but decided to change carrer to tech.<br/><br/>
 # 💻Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,js,jest,md,react,redux,styledcomponents,vite,docker,nodejs,express,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,js,jest,md,react,redux,styledcomponents,vite,docker,nodejs,express,mysql,mongodb,py" />
   </a>
 </p>
 
