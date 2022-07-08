@@ -17,10 +17,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AngelicaCSSilva&label=Visitors+Count&color=brightgreen)<br/>
 Brazilian, woman and student of web development.
-I graduated in Law, but decided to change carrer to tech.<br/><br/>
+I graduated in Law, but decided to change carrer to the IT field. I strive for a more diverse and inclusive environment for underrepresented groups. <br/><br/>
 [🔭] Currently studying Web Development (Full Stack) at Trybe. <br/>
 [🌟] On April 7, 2022 - Finished Front-End Web Development Course at Trybe. <br/>
 [🌱] Started Back-End Course at Trybe. <br/>
+[⚡] I'm passionate about Formula 1.
 [💬] I'm currently trying to learn Korean and Japanese. <br/>
 [❓] Feel free to ask me anything about the front end. I would love to be able to help you!
 
