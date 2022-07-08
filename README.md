@@ -21,7 +21,7 @@ I graduated in Law, but decided to change carrer to the IT field. I strive for a
 [🔭] Currently studying Web Development (Full Stack) at Trybe. <br/>
 [🌟] On April 7, 2022 - Finished Front-End Web Development Course at Trybe. <br/>
 [🌱] Started Back-End Course at Trybe. <br/>
-[⚡] I'm passionate about Formula 1.
+[⚡] I'm passionate about Formula 1. <br/>
 [💬] I'm currently trying to learn Korean and Japanese. <br/>
 [❓] Feel free to ask me anything about the front end. I would love to be able to help you!
 
